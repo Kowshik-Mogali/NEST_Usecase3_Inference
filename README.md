@@ -9,7 +9,7 @@ This repository provides the inference pipeline for predicting the completion st
 
 ## Directory Structure
 
-Download the `Usecase_3_.csv` file from the following google drive location and keep it in the root directory.
+Download the `Usecase_3_.csv` file, `ClinicalBioBertFinal`, `models` folders from the following google drive location and keep it in the root directory.
 `https://drive.google.com/drive/folders/1pigBb4Lx0YJPBBx9rdh6V2FTUTV713zw?usp=sharing`
 
 ```
